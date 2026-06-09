@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Roomdoo changelog</title>
+  <link>https://docs.roomdoo.com/en/changelog</link>
+  <description>The most relevant changes and improvements we ship in Roomdoo.</description>
+  <language>en-US</language>
+  <lastBuildDate>Tue, 09 Jun 2026 10:25:49 +0000</lastBuildDate>
+  <atom:link href="https://docs.roomdoo.com/images/feeds/news-en.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Invoicing: expandable payments and an Excel for your accountant</title>
+    <link>https://docs.roomdoo.com/en/changelog/new-invoicing-list</link>
+    <guid isPermaLink="true">https://docs.roomdoo.com/en/changelog/new-invoicing-list</guid>
+    <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    <description>The Invoicing list takes a leap: see the payment state of every invoice, expand the payments of each one, filter by quarter and year with more powerful search, and export a far more complete Excel for your accountant —with the payments list already aggregated inside the file—. And, overall, it runs faster.</description>
+    <enclosure url="https://docs.roomdoo.com/images/news/2026-06-facturas-listado.webp" type="image/webp"/>
+  </item>
+  <item>
+    <title>Roomdoo now speaks 7 languages, and more from May</title>
+    <link>https://docs.roomdoo.com/en/changelog#may-25-2026</link>
+    <guid isPermaLink="true">https://docs.roomdoo.com/en/changelog#may-25-2026</guid>
+    <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+    <description>The biggest change of the month: on top of Spanish and English, we add Galician, Catalan, Portuguese, French and German. Five new languages at once — an important step so every team can work in its own language and to open Roomdoo to more markets.</description>
+    <enclosure url="https://docs.roomdoo.com/images/news/2026-05-idiomas.webp" type="image/webp"/>
+  </item>
+  <item>
+    <title>Reservations: filter, export, close the day</title>
+    <link>https://docs.roomdoo.com/en/changelog/new-reservations-list</link>
+    <guid isPermaLink="true">https://docs.roomdoo.com/en/changelog/new-reservations-list</guid>
+    <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    <description>New Reservations section: all your operations as a list. Until now the planning was your only way to see the day; now you can filter, search and export to Excel or PDF any reservation in seconds, review your data as a table and jump to the planning in one click. A far more powerful way to prep the shift and close the day.</description>
+    <enclosure url="https://docs.roomdoo.com/images/news/2026-05-reservas-listado.png" type="image/png"/>
+  </item>
+  <item>
+    <title>BookAI is live</title>
+    <link>https://docs.roomdoo.com/en/changelog#march-1-2026</link>
+    <guid isPermaLink="true">https://docs.roomdoo.com/en/changelog#march-1-2026</guid>
+    <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+    <description>We launch BookAI, Roomdoo's AI that centralises every hotel conversation into a single chat and automates much of the daily comms with configurable templates. More at bookai.roomdoo.com.</description>
+    <enclosure url="https://docs.roomdoo.com/images/news/2026-03-bookai-hero.png" type="image/png"/>
+  </item>
+  <item>
+    <title>2026 refactor: contacts, menu and login</title>
+    <link>https://docs.roomdoo.com/en/changelog#january-27-2026</link>
+    <guid isPermaLink="true">https://docs.roomdoo.com/en/changelog#january-27-2026</guid>
+    <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+    <description>The progressive refactor of the whole app kicks off to gain reliability and stability. First areas on the new architecture: contact management (lists with tabs and filters, richer form), revamped main menu, and a new login ready for multi-language support.</description>
+    <enclosure url="https://docs.roomdoo.com/images/news/2026-01-refactorizacion-hero.png" type="image/png"/>
+  </item>
+  <item>
+    <title>Community-requested features</title>
+    <link>https://docs.roomdoo.com/en/changelog#january-12-2026</link>
+    <guid isPermaLink="true">https://docs.roomdoo.com/en/changelog#january-12-2026</guid>
+    <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+    <description>A bundle of improvements requested by our customers to speed up day-to-day operations and improve visibility across the app.</description>
+    <enclosure url="https://docs.roomdoo.com/images/news/2026-01-comunidad-hero.jpg" type="image/jpeg"/>
+  </item>
+  <item>
+    <title>VeriFactu for hotels</title>
+    <link>https://docs.roomdoo.com/en/changelog#july-1-2025</link>
+    <guid isPermaLink="true">https://docs.roomdoo.com/en/changelog#july-1-2025</guid>
+    <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+    <description>Everything about mandatory VeriFactu and how it affects your hotel. Roomdoo is already 100% compliant. Official deadlines after the December 2025 postponement: companies from 01/01/2027 and self-employed from 01/07/2027. Full detail in VeriFactu.</description>
+    <enclosure url="https://docs.roomdoo.com/images/news/2025-07-verifactu-hero.webp" type="image/webp"/>
+  </item>
+  <item>
+    <title>Mobile performance + small improvements</title>
+    <link>https://docs.roomdoo.com/en/changelog#may-1-2025</link>
+    <guid isPermaLink="true">https://docs.roomdoo.com/en/changelog#may-1-2025</guid>
+    <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+    <description>Mobile performance optimisation, bug fixes and small day-to-day feature adjustments.</description>
+    <enclosure url="https://docs.roomdoo.com/images/news/2025-05-rendimiento-movil-hero.png" type="image/png"/>
+  </item>
+  <item>
+    <title>New, improved online check-in</title>
+    <link>https://docs.roomdoo.com/en/changelog#october-1-2024</link>
+    <guid isPermaLink="true">https://docs.roomdoo.com/en/changelog#october-1-2024</guid>
+    <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+    <description>New mobile pre check-in flow for guests with document scanning and online payment. Faster reception, better SES data completeness. See Check-in.</description>
+    <enclosure url="https://docs.roomdoo.com/images/news/2024-10-checkin-online-hero.png" type="image/png"/>
+  </item>
+  <item>
+    <title>Guide: exporting data for the Spanish INE occupancy survey</title>
+    <link>https://docs.roomdoo.com/en/changelog#july-1-2024</link>
+    <guid isPermaLink="true">https://docs.roomdoo.com/en/changelog#july-1-2024</guid>
+    <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+    <description>Step-by-step on how to export Roomdoo data for the INE (EOH occupancy survey). Detail in INE.</description>
+    <enclosure url="https://docs.roomdoo.com/images/news/2024-07-ine-hero.jpg" type="image/jpeg"/>
+  </item>
+  <item>
+    <title>Automatic document scanning</title>
+    <link>https://docs.roomdoo.com/en/changelog#june-25-2024</link>
+    <guid isPermaLink="true">https://docs.roomdoo.com/en/changelog#june-25-2024</guid>
+    <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+    <description>The OCR document scanner auto-fills guest data on check-in. Faster, with fewer errors. See Scan documents.</description>
+    <enclosure url="https://docs.roomdoo.com/images/news/2024-06-escaneo-documentos-hero.jpg" type="image/jpeg"/>
+  </item>
+  <item>
+    <title>SES.HOSPEDAJES integration</title>
+    <link>https://docs.roomdoo.com/en/changelog#june-5-2024</link>
+    <guid isPermaLink="true">https://docs.roomdoo.com/en/changelog#june-5-2024</guid>
+    <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+    <description>Integration with SES.HOSPEDAJES, the unified Spanish Ministry of the Interior platform for traveller registration. Replaces previous regional systems. Detail in SES Hospedajes.</description>
+    <enclosure url="https://docs.roomdoo.com/images/news/2024-06-ses-hospedajes-hero.jpg" type="image/jpeg"/>
+  </item>
+  <item>
+    <title>New check-in assistants</title>
+    <link>https://docs.roomdoo.com/en/changelog#february-1-2024</link>
+    <guid isPermaLink="true">https://docs.roomdoo.com/en/changelog#february-1-2024</guid>
+    <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+    <description>Guided assistants in the check-in process that automatically suggest the most relevant action based on the reservation state, speeding up reception work. See Check-in.</description>
+    <enclosure url="https://docs.roomdoo.com/images/news/2024-02-asistentes-checkin-hero.jpg" type="image/jpeg"/>
+  </item>
+  <item>
+    <title>New Roomdoo look &amp; feel</title>
+    <link>https://docs.roomdoo.com/en/changelog#december-1-2023</link>
+    <guid isPermaLink="true">https://docs.roomdoo.com/en/changelog#december-1-2023</guid>
+    <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+    <description>Visual update with a new interface and lots of usability improvements. The first step of a gradual change that continues in the following months.</description>
+    <enclosure url="https://docs.roomdoo.com/images/news/2023-12-nueva-apariencia-hero.png" type="image/png"/>
+  </item>
+</channel>
+</rss>
