@@ -5,8 +5,8 @@
   <link>https://docs.roomdoo.com/es/novedades</link>
   <description>Los cambios y mejoras más relevantes que vamos lanzando en Roomdoo.</description>
   <language>es-ES</language>
-  <lastBuildDate>Tue, 09 Jun 2026 10:25:49 +0000</lastBuildDate>
-  <atom:link href="https://docs.roomdoo.com/images/feeds/news.xml" rel="self" type="application/rss+xml"/>
+  <lastBuildDate>Tue, 09 Jun 2026 10:31:45 +0000</lastBuildDate>
+  <atom:link href="https://commitsun.github.io/roomdoo-feeds/news.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Facturación: pagos desplegables y Excel para tu gestoría</title>
     <link>https://docs.roomdoo.com/es/novedades/nuevo-listado-facturacion</link>

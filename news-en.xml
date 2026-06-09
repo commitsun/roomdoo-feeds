@@ -5,8 +5,8 @@
   <link>https://docs.roomdoo.com/en/changelog</link>
   <description>The most relevant changes and improvements we ship in Roomdoo.</description>
   <language>en-US</language>
-  <lastBuildDate>Tue, 09 Jun 2026 10:25:49 +0000</lastBuildDate>
-  <atom:link href="https://docs.roomdoo.com/images/feeds/news-en.xml" rel="self" type="application/rss+xml"/>
+  <lastBuildDate>Tue, 09 Jun 2026 10:31:45 +0000</lastBuildDate>
+  <atom:link href="https://commitsun.github.io/roomdoo-feeds/news-en.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Invoicing: expandable payments and an Excel for your accountant</title>
     <link>https://docs.roomdoo.com/en/changelog/new-invoicing-list</link>
