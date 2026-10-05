@@ -5,7 +5,7 @@
   <link>https://docs.roomdoo.com/es/changelog</link>
   <description>Los cambios y mejoras más relevantes que vamos lanzando en Roomdoo.</description>
   <language>es-ES</language>
-  <lastBuildDate>Fri, 12 Jun 2026 11:20:59 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 05 Oct 2026 10:46:20 +0000</lastBuildDate>
   <atom:link href="https://commitsun.github.io/roomdoo-feeds/news.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Facturación: pagos desplegables y Excel para tu gestoría</title>
@@ -100,7 +100,7 @@
     <link>https://docs.roomdoo.com/es/changelog#5-junio-2024</link>
     <guid isPermaLink="true">https://docs.roomdoo.com/es/changelog#5-junio-2024</guid>
     <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-    <description>Integración con SES.HOSPEDAJES, la plataforma unificada del Ministerio del Interior para el registro de viajeros. Sustituye a los sistemas regionales anteriores. Detalle en SES Hospedajes.</description>
+    <description>Integración con SES.HOSPEDAJES, la plataforma unificada del Ministerio del Interior para el registro de viajeros. Sustituye a los sistemas anteriores de la Guardia Civil y la Policía Nacional (el País Vasco y Cataluña mantienen sus propios sistemas). Detalle en SES Hospedajes.</description>
     <enclosure url="https://docs.roomdoo.com/images/news/2024-06-ses-hospedajes-hero.jpg" type="image/jpeg"/>
   </item>
   <item>
